@@ -1,0 +1,8 @@
+{
+  "name": "GymBuddy — Personal Workout Tracker",
+  "description": "A modern, professional workout tracker to log exercises, follow routines, track personal records, and reach fitness goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
